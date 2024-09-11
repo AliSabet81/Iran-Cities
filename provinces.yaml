@@ -1,0 +1,156 @@
+---
+- id: 1
+  name: آذربایجان شرقی
+  latitude: '37.9160365'
+  longitude: '46.6781589'
+  english_name: East Azerbaijan
+- id: 2
+  name: آذربایجان غربی
+  latitude: '37.7416484'
+  longitude: '45.0207638'
+  english_name: West Azerbaijan
+- id: 3
+  name: اردبیل
+  latitude: '38.4583983'
+  longitude: '47.9313001'
+  english_name: Ardabil
+- id: 4
+  name: اصفهان
+  latitude: '32.6707877'
+  longitude: '51.6650002'
+  english_name: Isfahan
+- id: 5
+  name: ایلام
+  latitude: '33.1545696'
+  longitude: '46.7576343'
+  english_name: Ilam
+- id: 6
+  name: بوشهر
+  latitude: '28.8936645'
+  longitude: '51.3204877'
+  english_name: Bushehr
+- id: 7
+  name: تهران
+  latitude: '35.6892523'
+  longitude: '51.3896004'
+  english_name: Tehran
+- id: 8
+  name: چهارمحال و بختیاری
+  latitude: '32.0163307'
+  longitude: '50.685709'
+  english_name: Chaharmahal and Bakhtiyari
+- id: 9
+  name: خراسان جنوبی
+  latitude: '33.129577'
+  longitude: '58.1065069'
+  english_name: South Khorasan
+- id: 10
+  name: خراسان رضوی
+  latitude: '35.4795009'
+  longitude: '59.0237291'
+  english_name: Razavi Khorasan
+- id: 11
+  name: خراسان شمالی
+  latitude: '37.5378855'
+  longitude: '56.9526137'
+  english_name: North Khorasan
+- id: 12
+  name: خوزستان
+  latitude: '31.5563051'
+  longitude: '49.0058885'
+  english_name: Khuzestan
+- id: 13
+  name: زنجان
+  latitude: '36.515854'
+  longitude: '48.4777616'
+  english_name: Zanjan
+- id: 14
+  name: سمنان
+  latitude: '35.5834074'
+  longitude: '53.3882906'
+  english_name: Semnan
+- id: 15
+  name: سیستان و بلوچستان
+  latitude: '28.1292481'
+  longitude: '60.8236848'
+  english_name: Sistan and Baluchestan
+- id: 16
+  name: فارس
+  latitude: '29.299051'
+  longitude: '53.218456'
+  english_name: Fars
+- id: 17
+  name: قزوین
+  latitude: '36.0156291'
+  longitude: '49.8398161'
+  english_name: Qazvin
+- id: 18
+  name: قم
+  latitude: '34.6422939'
+  longitude: '50.8801184'
+  english_name: Qom
+- id: 19
+  name: البرز
+  latitude: '35.9413239'
+  longitude: '50.7884216'
+  english_name: Alborz
+- id: 20
+  name: کردستان
+  latitude: '35.672803'
+  longitude: '47.0124376'
+  english_name: Kurdistan
+- id: 21
+  name: کرمان
+  latitude: '30.2924085'
+  longitude: '57.0645647'
+  english_name: Kerman
+- id: 22
+  name: کرمانشاه
+  latitude: '34.3239414'
+  longitude: '47.0735891'
+  english_name: Kermanshah
+- id: 23
+  name: کهگیلویه و بویراحمد
+  latitude: '30.8143476'
+  longitude: '50.8661454'
+  english_name: Kohgiluye and Buyer Ahmad
+- id: 24
+  name: گلستان
+  latitude: '37.1984436'
+  longitude: '55.070672'
+  english_name: Golestan
+- id: 25
+  name: لرستان
+  latitude: '33.5368206'
+  longitude: '48.2443945'
+  english_name: Lorestan
+- id: 26
+  name: گیلان
+  latitude: '32.0245475'
+  longitude: '49.8835068'
+  english_name: گیلان
+- id: 27
+  name: مازندران
+  latitude: '36.3159159'
+  longitude: '51.8968597'
+  english_name: Mazandaran
+- id: 28
+  name: مرکزی
+  latitude: '33.639785'
+  longitude: '46.42489416289041'
+  english_name: Markazi
+- id: 29
+  name: هرمزگان
+  latitude: '27.7198095'
+  longitude: '56.335807'
+  english_name: Hormozgan
+- id: 30
+  name: همدان
+  latitude: '34.9726302'
+  longitude: '48.6563818'
+  english_name: Hamadan
+- id: 31
+  name: یزد
+  latitude: '31.8948'
+  longitude: '54.357'
+  english_name: Yazd
